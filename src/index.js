@@ -10,7 +10,6 @@ function App() {
 
       {/* handle the click event on this button */}
       <button>👆 Move Up 👆</button>
-      <button>👆 Move Up 👆</button>
 
       {/* move this box using inline styles */}
       <div className="box" style={{}} />
